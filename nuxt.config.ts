@@ -9,6 +9,13 @@ export default defineNuxtConfig({
     buildAssetsDir: 'assets', // don't use "_" at the begining of the folder name to avoids nojkill conflict
     head: {
       title: 'somcandy_house',
+      link: [
+        {
+          rel: 'icon',
+          type: 'image/x-icon',
+          href: '/somcandy_house/favicon.png',
+        },
+      ],
     },
   },
   nitro: {

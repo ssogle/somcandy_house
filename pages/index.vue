@@ -29,7 +29,7 @@
         class="btn"
         target="_blank"
       >
-        네이버 블로그 - 무료 배경화면
+        무료 배경화면 다운로드
       </a>
     </div>
   </div>
