@@ -4,16 +4,25 @@
   <div
     class="tw-w-dvw tw-h-dvh tw-flex tw-justify-center tw-items-center tw-flex-col tw-bg-[#ffc0b9] tw-p-10"
   >
-    <div
+    <a
+      href="https://www.instagram.com/somcandy_house/?igsh=czZzdnB3c2Jwa2ww"
+      target="_blank"
       class="tw-flex tw-justify-center tw-bg-[#fff] tw-items-center tw-w-[200px] tw-h-[200px] tw-border tw-shadow-md tw-rounded-full tw-mb-2"
     >
       <img src="~/assets/imgs/avatar001.png" class="tw-w-full tw-h-full" />
-    </div>
+    </a>
 
     <div
       class="tw-flex tw-flex-col tw-gap-0 tw-justify-center tw-items-center tw-text-white tw-mb-10"
     >
-      <div class="tw-font-bold tw-text-lg">somcandy_house</div>
+      <a
+        href="https://www.instagram.com/somcandy_house/?igsh=czZzdnB3c2Jwa2ww"
+        target="_blank"
+        class="tw-font-bold tw-text-lg tw-underline tw-flex tw-gap-1 tw-justify-center tw-items-center"
+      >
+        <img src="~/assets/imgs/instagram.svg" class="tw-w-[16px]" />
+        somcandy_house</a
+      >
       <div>솜캔디 | 이모티콘 작가</div>
     </div>
 
