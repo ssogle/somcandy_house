@@ -13,7 +13,7 @@ export default defineNuxtConfig({
         {
           rel: 'icon',
           type: 'image/x-icon',
-          href: '/somcandy_house/favicon.png',
+          href: '/somcandy_house/favicon.ico',
         },
       ],
     },
