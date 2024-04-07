@@ -9,11 +9,6 @@ export default defineNuxtConfig({
       title: 'somcandy_house',
     },
   },
-  nitro: {
-    output: {
-      publicDir: path.join(__dirname, 'docs'),
-    },
-  },
   // modules: ['@nuxtjs/tailwindcss', 'nuxt-quasar-ui'],
   // quasar: {
   // iconSet: 'mdi-v7',
