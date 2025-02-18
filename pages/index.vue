@@ -34,6 +34,12 @@
         >네이버 OGQ 마켓</a
       >
       <a
+        href="https://store.line.me/stickershop/author/3372710/ko"
+        class="btn"
+        target="_blank"
+        >LINE STORE</a
+      >
+      <a
         href="https://blog.naver.com/somcandy_house"
         class="btn"
         target="_blank"
