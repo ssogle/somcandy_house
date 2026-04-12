@@ -34,7 +34,7 @@
         href="https://ogqmarket.naver.com/creators/%EC%86%9C%EC%BA%94%EB%94%94Somcandy"
         class="btn"
         target="_blank"
-        >네이버 OGQ 마켓</a
+        >네이버 OGQ 마켓 이모티콘</a
       >
       <a
         href="https://blog.naver.com/somcandy_house"
