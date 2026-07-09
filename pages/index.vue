@@ -30,9 +30,9 @@
       <!-- <a href="https://forms.gle/MZLLx7e3Bb7enaWb6" class="btn" target="_blank"
         >사랑둥이 아기씨 키링 주문하기</a
       > -->
-      <a href="https://forms.gle/fhXRwo2f6vRbMe3j8" class="btn" target="_blank"
+      <!-- <a href="https://forms.gle/fhXRwo2f6vRbMe3j8" class="btn" target="_blank"
         >노른자톡 주문하기</a
-      >
+      > -->
       <a
         href="https://ogqmarket.naver.com/creators/%EC%86%9C%EC%BA%94%EB%94%94Somcandy"
         class="btn"
